@@ -1,0 +1,1065 @@
+/* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+*/
+  
+@media (min-width: 320px) and (max-width: 480px) {
+  /* Global CSS Start */
+    section {
+      padding: 40px 0px;
+    }
+  /* Global CSS End */
+
+
+
+  /* Header Section Start */
+  
+    .header-section {
+      width: 100%;
+      padding: 30px 0px 45px;
+      background: url(../Images/banner_img.jpg) center top no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+    .top_phone {
+      border: unset;
+    }
+    .top_phone a {
+      color: white;
+      font-family: montserrace;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 12px;
+    }
+    .navbar {
+      border: unset;
+
+    }
+    .navbar-nav .n_l_child {
+      margin-top: 10px;
+    }
+    #banner {
+      width: 100%;
+      text-align: center;
+      padding: 30px 0px;;
+    }
+    #banner h1 {
+      color: #ffffff;
+      font-size: 2.5rem;
+      line-height: unset;
+    }
+    #banner p {
+      color: #ffffff;
+      width: 100%;
+      margin-top: 10px;
+      margin-bottom: 30px;
+    }
+  /* Header Section End */
+
+
+  /* Feature Section Start */
+    .title p {
+      color: #83a7a5;
+      font-size: 15px;
+      padding: 0 0%;
+    } 
+    #feature .items {
+      margin-top: 40px;
+    }
+    .shape {
+      position: relative;
+      height: 0px;
+      margin-top: 0px;
+    }
+    
+    #feature .item-2-first {
+      margin-top: 50px !important;
+    }
+    #feature .item-2 {
+      margin-top: 40px;
+    }
+  /* Feature Section End */
+
+
+  /* Template Section Start */
+    #template {
+      margin-top: 0px;
+      padding-bottom: 40px;
+      position: relative;
+    }
+    #template .title h2 {
+      color: #0f5f5c;
+      font-size: 32px;
+      font-weight: 300;
+      position: relative;
+      margin-bottom: 35px;
+    }
+    #template .title p {
+      color: #83a7a5;
+      font-size: 15px;
+      padding: 0 0%;
+      margin-bottom: 45px;
+    }
+    #template .mobile {
+      width: 100%;
+      background-position: center top;
+      background-size: contain;
+      background-repeat: no-repeat;
+      height: 100%;
+      height: 30vh;
+    }
+    #template .item-3 {
+      margin-top: 0px;
+      margin-left: 0px;
+      padding-top: 40px;
+    }
+    #template .item-3 h2 {
+      color: #0f5f5c;
+      font-size: 32px;
+      font-weight: 300;
+      text-align: center;
+      margin-bottom: 15px;
+    }
+    #template .item-3 p {
+      color: #83a7a5;
+      font-size: 14px;
+      padding-right: 0px;
+    }
+  /* Template Section End */
+
+
+  /* Profile Section Start */
+    #profile {
+      padding-top: 60px !important;
+    }
+    #profile .b {
+      order: 1;
+    }
+    #profile .pro_pic {
+      text-align: center;
+      width: 100%;
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    #profile .pro_pic img {
+      text-align: center !important;
+      width: 270px;
+      height: 270px;
+      border-radius: 50%;
+    }
+    #profile .a {
+      order: 2;
+    }
+    #profile .item-4 {
+      margin-top: 40px;
+    }
+  /* Profile Section End */
+
+
+  /* Attention Section Start */
+    #attention .item-5 {
+      margin-top: 0px;
+    }
+    #attention .item-5 p {
+      color: #83a7a5;
+      font-size: 14px;
+      text-align: justify;
+      margin: 15px 0px 30px;
+      padding-right: 0px;
+    }
+  /* Attention Section End */
+
+
+  /* Pricing Section Start */
+    #pricing .title h2 {
+      color: #0f5f5c;
+      font-size: 32px;
+      font-weight: 400;
+    }
+    .pad {
+      padding-top: 65px;
+      margin-bottom: 50px;
+    }
+    #pricing .title p {
+      padding:0px;
+    }
+    #pricing .plan {
+      text-align: center;
+      border: 2px solid #c1d3d2;
+      border-radius: 2px;
+      margin: 0px;
+      margin-left: 0px;
+      padding-top: 6px;
+      padding-bottom: 38px;
+      margin-bottom: 15px;
+      margin-top: 20px;
+    }
+    #pricing .plan-item {
+      margin-top: 0px;
+    }
+    #pricing .help h4 {
+      color: #0f5f5c;
+      font-size: 18px;
+      padding: 10px 0px 0px;
+    }
+  /* Pricing Section End */
+
+
+  /* Download Section Start */
+    #download {
+      width: 100%;
+      padding: 40px 0px 60px !important;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #download .download-item-left {
+      width: 100%;
+      text-align: cent
+    }
+    #download .download-item-left h2 {
+      color: #0f5f5c;
+      font-size: 26px;
+      line-height: 32px;
+      font-weight: 400;
+      padding-left: 0px;
+      text-align: center;
+    }
+    #download .download-item-left p {
+      color: #83a7a5;
+      font-size: 14px;
+      line-height: 14px;
+      padding-left: 0px;
+      text-align: center;
+      margin: 15px 0px 35px;
+    }
+    #download .download-item-right {
+      width: 100%;
+      margin-top: 20px;
+      text-align: center;
+    }
+    #download .download-item-right .green_btn {
+      padding: 15px 25px;
+      border-radius: 25px;
+      margin-left: 0px;
+      text-align: center !important;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      -ms-border-radius: 25px;
+      -o-border-radius: 25px;
+    }
+  /* Download Section End */
+
+
+
+  /* Address Section Start*/
+    .company {
+      margin-top: 27px !important;
+    }
+    .ad_divier {
+      margin-top: 30px;
+    }
+  /* Address Section End*/
+
+
+  /* Footer Section Start */
+    .footer-section {
+      width: 100%;
+    border: 0px solid #eef1ec;
+    border-top-width: 1px;
+    padding: 25px 0px 15px
+    }
+
+    .footer-section .text p {
+        color: #83a7a5;
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .footer-section .icon a {
+      font-size: 12px;
+      line-height: 22px;
+    }
+    .footer-section .icon .fa:hover {
+      color: #fff;
+      background: #6fb048;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      padding: 8px 5px 0px 5px;
+      border-radius: 50%;
+    }
+    .footer-section .icon .fa {
+      margin-left: 1px;
+    }
+    .footer-section .icon .fa-twitter {
+      color: #fff;
+      background: #55acee;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      padding: 8px 5px 0px 5px;
+      border-radius: 50%;
+    }
+    .footer-section .icon .fa-facebook {
+        color: #fff;
+        background: #3b5998;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+        padding: 8px 5px 0px 5px;
+        border-radius: 50%;
+    }
+    .footer-section .icon .fa-instagram {
+      color: #fff;
+      background: #3f729b;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      padding: 8px 5px 0px 5px;
+      border-radius: 50%;
+    }
+    .footer-section .icon .fa-dribbble {
+       color: #fff;
+      background: #ea4c89;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      padding: 8px 5px 0px 5px;
+      border-radius: 50%;
+    }
+    .footer-section .icon .fa-google-plus {
+      color: #fff;
+      background: #333333;
+      width: 25px;
+      height: 25px;
+      text-align: center;
+      padding: 8px 5px 0px 5px;
+      border-radius: 50%;
+    }
+  /* Footer Section End */
+}
+
+
+
+
+
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  /* Global CSS Start */
+    section {
+      padding: 60px 0px;
+    }
+  /* Global CSS End */
+
+
+
+  /* Header Section Start */
+
+    .header-section {
+      width: 100%;
+      padding: 30px 0px 45px;
+      background: url(../Images/banner_img.jpg) center top no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+    .top_phone {
+      border: unset;
+    }
+    .top_phone a {
+      color: white;
+      font-family: montserrace;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      
+    }
+    .navbar {
+      border: unset;
+
+    }
+    .navbar-toggler a {
+      columns: #6fb048;
+    }
+    .navbar-nav {
+      text-align: center;
+    }
+    .active {
+      margin-top: 5px;
+    }
+    .navbar-nav .n_l_child {
+      margin-top: 10px;
+    }
+    #banner {
+      width: 100%;
+      text-align: center;
+      padding: 30px 0px;;
+    }
+    #banner h1 {
+      color: #ffffff;
+      font-size: 2.5rem;
+      line-height: unset;
+    }
+    #banner p {
+      color: #ffffff;
+      width: 100%;
+      margin-top: 10px;
+      margin-bottom: 35px;
+    }
+    .cta_btn {
+      background: rgba(255, 255, 255, .5);
+      padding: 15px 60px;
+      display: block;
+      width: 100%;
+      text-align: center;
+      font-weight: 700;
+      border-radius: 3px;
+      transition: all .4s;
+      -webkit-transition: all .4s;
+      -moz-transition: all .4s;
+      -ms-transition: all .4s;
+      -o-transition: all .4s;
+    }
+  /* Header Section End */
+
+
+   /* Feature Section Start */
+    .title p {
+      color: #83a7a5;
+      font-size: 15px;
+      padding: 0 0%;
+    } 
+    #feature .items {
+      margin-top: 50px;
+    }
+    .shape {
+      position: relative;
+      height: 0px;
+      margin-top: 0px;
+    }
+  /* Feature Section End */
+
+
+  /* Template Section Start */
+    #template {
+      margin-top: 0px;
+      padding-bottom: 60px;
+      position: relative;
+    }
+    #template .title {
+      width: 100%;
+      margin-bottom: 40px;
+    }
+    #template .title h2 {
+      color: #0f5f5c;
+      font-size: 28px;
+      line-height: 38px;
+      font-weight: 300;
+      position: relative;
+      margin-bottom: 35px;
+    }
+    #template .mobile {
+      height: 100%;
+      margin-top: 40px;
+    }
+    #template .item-3 {
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+
+  /* Template Section End */
+
+
+   /* Profile Section Start */
+    #profile {
+      padding-top: 70px !important;
+    }
+    #profile .b {
+      order: 1;
+    }
+    #profile .pro_pic {
+      text-align: center;
+      width: 100%;
+      margin-top: 0px;
+      margin-left: 0px;
+      margin-bottom: 40px;
+    }
+    #profile .pro_pic img {
+      text-align: center !important;
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+    }
+    #profile .a {
+      order: 2;
+    }
+    #profile .item-4 {
+      margin-top: 0px;
+    }
+    #profile .item-4 p {
+      color: #83a7a5;
+      font-size: 18px;
+    }
+  /* Profile Section End */
+
+
+  /* Attention Section Start */
+    #attention .item-5 {
+      margin-top: 0px;
+    }
+    #attention .item-5 p {
+      color: #83a7a5;
+      font-size: 14px;
+      text-align: justify;
+      margin: 15px 0px 40px;
+      padding-right: 0px;
+    }
+  /* Attention Section End */
+
+
+  /* Pricing Section Start */
+    #pricing .title h2 {
+      color: #0f5f5c;
+      font-size: 32px;
+      font-weight: 400;
+    }
+    .pad {
+      padding-top: 65px;
+      margin-bottom: 50px;
+    }
+    #pricing .title p {
+      padding:0px;
+    }
+    #pricing .plan {
+      text-align: center;
+      border: 2px solid #c1d3d2;
+      border-radius: 2px;
+      margin: 0px;
+      margin-left: 0px;
+      padding-top: 6px;
+      padding-bottom: 38px;
+      margin-bottom: 15px;
+      margin-top: 20px;
+    }
+    #pricing .plan h1 {
+      font-size: 40px;
+    }
+    #pricing .plan h6 {
+      margin-top: 0px;
+    }
+    #pricing .plan p {
+      padding: 0px;
+    }
+    #pricing .plan-item {
+      margin-top: 0px;
+    }
+    #pricing .plan-item .media-body p {
+      font-size: 14px;
+      margin-left: 8px;
+      color: #83a7a5;
+      }
+    #pricing .help h4 {
+      color: #0f5f5c;
+      font-size: 18px;
+      padding: 10px 0px 0px;
+    }
+  /* Pricing Section End */
+
+
+  /* Download Section Start */
+    #download {
+      width: 100%;
+      padding: 60px 0px 60px !important;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #download .download-item-left {
+      width: 100%;
+      text-align: cent
+    }
+    #download .download-item-left h2 {
+      color: #0f5f5c;
+      font-size: 26px;
+      line-height: 32px;
+      font-weight: 400;
+      padding-left: 0px;
+      text-align: left;
+    }
+    #download .download-item-left p {
+      color: #83a7a5;
+      font-size: 14px;
+      line-height: 14px;
+      padding-left: 0px;
+      text-align: left;
+      margin: 15px 0px 0px;
+    }
+    #download .download-item-right {
+      width: 100%;
+      margin-top: 50px;
+      text-align: center;
+    }
+    #download .download-item-right .green_btn {
+      padding: 15px 20px;
+      font-size: 12px;
+      border-radius: 25px;
+      margin-left: 0px;
+      text-align: center !important;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      -ms-border-radius: 25px;
+      -o-border-radius: 25px;
+    }
+  /* Download Section End */
+
+
+  /* Address Section Start */
+    .ad_divier {
+      margin-top: 30px;
+    }
+    .ad_divier p {
+      margin-bottom: 20px !important;
+    }
+    .input-group  {
+      width: 60%;
+    }
+  /* Address Section End */
+
+}
+
+
+
+
+
+
+
+
+/* 
+##Device = Tablets, Ipads
+##Screen = B/w 768px to 991px
+*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+   /* Header Section Start */
+    .header-section {
+      width: 100%;
+      padding: 40px 0px 55px;
+      background: url(../Images/banner_img.jpg) center top no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+    .top_phone {
+      border: unset;
+    }
+    .top_phone a {
+      color: white;
+      font-family: montserrace;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      
+    }
+    .navbar {
+      border: unset;
+
+    }
+    .navbar-toggler a {
+      columns: #6fb048;
+    }
+    .navbar-nav {
+      text-align: center;
+    }
+    .active {
+      margin-top: 5px;
+    }
+    .navbar-nav .n_l_child {
+      margin-top: 10px;
+    }
+    #banner {
+      width: 100%;
+      text-align: center;
+      padding: 30px 0px;;
+    }
+    #banner h1 {
+      color: #ffffff;
+      font-size: 2.5rem;
+      line-height: unset;
+    }
+    #banner p {
+      color: #ffffff;
+      width: 100%;
+      margin-top: 10px;
+      margin-bottom: 35px;
+    }
+    .cta_btn {
+      background: rgba(255, 255, 255, .5);
+      padding: 15px 60px;
+      display: block;
+      width: 100%;
+      text-align: center;
+      font-weight: 700;
+      border-radius: 3px;
+      transition: all .4s;
+      -webkit-transition: all .4s;
+      -moz-transition: all .4s;
+      -ms-transition: all .4s;
+      -o-transition: all .4s;
+    }
+  /* Header Section End */
+
+
+  /* Feature Section Start */
+    .title p {
+      padding: 0 0%;
+    }
+    .shape {
+      position: relative;
+      height: 0px;
+      margin-top: 0px;
+    }
+    #template .mobile {
+      height: 100%;
+    }
+  /* Feature Section End */
+
+
+  /* Template Section Start */
+    #template {
+      margin-top: 0px;
+      padding-bottom: 70px;
+      position: relative;
+    }
+    #template .title {
+      width: 100%;
+      margin-bottom: 40px;
+    }
+    #template .item-3 {
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    #template .mobile {
+      height: 100%;
+      margin-top: 90px;
+    }
+  /* Template Section End */
+
+
+  /* Profile Section Start */
+    #profile .item-4 {
+      margin-top: 15px;
+    }
+    #profile .item-4 p {
+      color: #83a7a5;
+      font-size: 20px;
+    }
+    #profile .pro_pic {
+      text-align: center;
+      width: 100%;
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    #profile .pro_pic img {
+      text-align: center !important;
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+    }
+  /* Profile Section End */
+
+
+  /* Attention Section Start */
+    #attention .item-5 {
+      margin-top: 0px;
+    }
+    #attention .map {
+      margin: 110px 0px 0px 0px;
+  }
+  /* Attention Section End */
+
+
+  /* Pricing Section Start */
+    #pricing .title h2 {
+      color: #0f5f5c;
+      font-size: 32px;
+      font-weight: 400;
+    }
+    .pad {
+      padding-top: 65px;
+      margin-bottom: 50px;
+    }
+    #pricing .title p {
+      padding:0px;
+    }
+    #pricing .plan {
+      text-align: center;
+      border: 2px solid #c1d3d2;
+      border-radius: 2px;
+      margin: 0px;
+      margin-left: 0px;
+      padding-top: 6px;
+      padding-bottom: 38px;
+      margin-bottom: 15px;
+      margin-top: 20px;
+    }
+    #pricing .plan h1 {
+      font-size: 40px;
+    }
+    #pricing .plan h6 {
+      margin-top: 0px;
+    }
+    #pricing .plan p {
+      padding: 10px 0px;
+  }
+    #pricing .plan-item {
+      margin-top: 0px;
+    }
+    #pricing .plan-item .media-body p {
+      font-size: 14px;
+      margin-left: 8px;
+      color: #83a7a5;
+      }
+    #pricing .help h4 {
+      color: #0f5f5c;
+      font-size: 18px;
+      padding: 10px 0px 0px;
+    }
+  /* Pricing Section End */
+
+
+
+  /* Download Section Start */
+    #download {
+      width: 100%;
+      padding: 70px 0px 70px !important;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #download .download-item-left {
+      width: 100%;
+      text-align: cent
+    }
+    #download .download-item-left h2 {
+      color: #0f5f5c;
+      font-size: 26px;
+      line-height: 32px;
+      font-weight: 400;
+      padding-left: 0px;
+      text-align: left;
+    }
+    #download .download-item-left p {
+      color: #83a7a5;
+      font-size: 14px;
+      line-height: 14px;
+      padding-left: 0px;
+      text-align: left;
+      margin: 15px 0px 0px;
+    }
+    #download .download-item-right {
+      width: 100%;
+      margin-top: 50px;
+      text-align: center;
+    }
+    #download .download-item-right .green_btn {
+      padding: 15px 20px;
+      font-size: 12px;
+      border-radius: 25px;
+      margin-left: 0px;
+      text-align: center !important;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      -ms-border-radius: 25px;
+      -o-border-radius: 25px;
+    }
+  /* Download Section End */
+
+
+  /* Address Section Start */
+    .ad_divier {
+      margin-top: 30px;
+    }
+    .ad_divier p {
+      margin-bottom: 20px !important;
+    }
+    .input-group  {
+      width: 45%;
+    }
+  /* Address Section End */
+
+}
+
+
+
+
+/* 
+##Device = Tablets, Ipads (landscape)
+##Screen = B/w 992px to 1024px
+*/
+
+@media (min-width: 992px) and (max-width: 1024px) {
+   /* Header Section Start */
+    #banner {
+      width: 100%;
+      padding: 140px 0px;
+    }
+  /* Header Section End */
+
+
+  /* Feature Section Start */
+    .title p {
+      color: #83a7a5;
+      font-size: 15px;
+      padding: 0px 25%;
+    }
+    .shape {
+      position: relative;
+      height: 15px;
+      margin-top: 0px;
+    }
+    #feature .item-2 {
+      margin-top: 30px;
+    }
+  /* Feature Section End */
+
+
+  /* Template Section Start */
+    #template {
+      margin-top: 0px;
+      padding-bottom: 70px;
+      position: relative;
+    }
+    #template .title {
+      width: 100%;
+      margin-bottom: 40px;
+    }
+    #template .item-3 {
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    #template .mobile {
+      height: 100%;
+      margin-top: 70px;
+    }
+  /* Template Section End */
+
+
+  /* Profile Section Start */
+    #profile .item-4 {
+      margin-top: 15px;
+    }
+    #profile .item-4 p {
+      color: #83a7a5;
+      font-size: 20px;
+    }
+    #profile .pro_pic {
+      text-align: center;
+      width: 100%;
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    #profile .pro_pic img {
+      text-align: center !important;
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+    }
+  /* Profile Section End */
+
+
+  /* Attention Section Start */
+    #attention .item-5 {
+      margin-top: 0px;
+    }
+    #attention .item-5 p {
+      color: #83a7a5;
+      font-size: 14px;
+      text-align: justify;
+      padding-right: 39px;
+    }
+  /* Attention Section End */
+
+
+  /* Pricing Section Start */
+    #pricing .title {
+      margin-bottom: 30px !important;
+    }
+    #pricing .plan h1 {
+      color: #0f5f5c;
+      font-size: 45px;
+      font-weight: 700;
+    }
+    #pricing .plan h6 {
+      color: #0f5f5c;
+      font-size: 14px;
+      margin-top: 0px;
+      padding-top: 0px;
+      font-weight: 700;
+    }
+  /* Pricing Section End */
+
+
+  /* Download Section Start */
+    #download {
+      width: 100%;
+      padding: 70px 0px 70px !important;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #download .download-item-left {
+      width: 100%;
+      text-align: cent
+    }
+    #download .download-item-left h2 {
+      color: #0f5f5c;
+      font-size: 26px;
+      line-height: 32px;
+      font-weight: 400;
+      padding-left: 0px;
+      text-align: left;
+    }
+    #download .download-item-left p {
+      color: #83a7a5;
+      font-size: 14px;
+      line-height: 14px;
+      padding-left: 0px;
+      text-align: left;
+      margin: 15px 0px 0px;
+    }
+    #download .download-item-right {
+      width: 100%;
+      margin-top: 22px;
+      text-align: center;
+    }
+    #download .download-item-right .green_btn {
+      padding: 15px 20px;
+      font-size: 12px;
+      border-radius: 25px;
+      margin-left: 0px;
+      text-align: center !important;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      -ms-border-radius: 25px;
+      -o-border-radius: 25px;
+    }
+  /* Download Section End */
+
+
+  /* Address Section Start */
+    .ad_divier {
+      margin-top: 30px;
+    }
+    .ad_divier p {
+      margin-bottom: 20px !important;
+    }
+    .input-group  {
+      width: 33%;
+    }
+  /* Address Section End */
+   
+}
+
